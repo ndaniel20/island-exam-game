@@ -1,0 +1,54 @@
+{
+    "GroupA": {
+        "PlayerA": {
+            "Name": "Joe",
+            "Intelligence": 67,
+            "Physical": 83,
+            "Speed": 64,
+            "Face": "https://cdn-icons-png.flaticon.com/128/7506/7506912.png",
+            "isSolo": false
+        },
+        "PlayerB": {
+            "Name": "Sarah",
+            "Intelligence": 94,
+            "Physical": 58,
+            "Speed": 45,
+            "Face": "https://cdn-icons-png.flaticon.com/128/7506/7506827.png",
+            "isSolo": false
+        },
+        "PlayerC": {
+            "Name": "Carlos",
+            "Intelligence": 73,
+            "Physical": 66,
+            "Speed": 91,
+            "Face": "https://cdn-icons-png.flaticon.com/128/7506/7506765.png",
+            "isSolo": true
+        }
+    },
+    "GroupB": {
+        "PlayerA": {
+            "Name": "Thomas",
+            "Intelligence": 81,
+            "Physical": 82,
+            "Speed": 22,
+            "Face": "https://cdn-icons-png.flaticon.com/128/7506/7506790.png",
+            "isSolo": true
+        },
+        "PlayerB": {
+            "Name": "Henry",
+            "Intelligence": 84,
+            "Physical": 80,
+            "Speed": 66,
+            "Face": "https://cdn-icons-png.flaticon.com/128/7506/7506875.png",
+            "isSolo": true
+        },
+        "PlayerC": {
+            "Name": "Suzy",
+            "Intelligence": 42,
+            "Physical": 39,
+            "Speed": 72,
+            "Face": "https://cdn-icons-png.flaticon.com/128/7506/7506735.png",
+            "isSolo": true
+        }
+    }
+}

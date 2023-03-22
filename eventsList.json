@@ -1,0 +1,26 @@
+{
+    "Academic": [
+        "Geography Test", 
+        "Philosophy Test", 
+        "Math Test", 
+        "Biology Test", 
+        "English Test", 
+        "Physics Test", 
+        "History Test", 
+        "Economics Test", 
+        "Spelling Bee", 
+        "Chemistry Test"
+    ],
+    "Physical": [
+        "Fishing", 
+        "Rock Climbing", 
+        "Swimming", 
+        "Volleyball", 
+        "Long Jump", 
+        "Soccer Penalties", 
+        "Archery", 
+        "Golf", 
+        "Kayaking", 
+        "Ultimate Frisbee"
+    ]
+}
